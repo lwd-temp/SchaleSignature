@@ -1,0 +1,2 @@
+# SchaleSignature
+Blue Archive
